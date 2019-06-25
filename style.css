@@ -22,3 +22,9 @@ nav a {
   background-color: gray;
   margin: 0 auto;
 }
+
+#feaured-property p {
+  width: 800px;
+  text-align: center;
+  margin: 0 auto;
+}
